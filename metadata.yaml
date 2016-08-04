@@ -1,0 +1,28 @@
+_repo: Ginx-s-Baby--His-Birth-and-Other-Misfortunes--a-Satire_581
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Jenkins, Edward
+    alias: Jenkins, John Edward
+    birthdate: 1838
+    deathdate: 1910
+    gutenberg_agent_id: '300'
+    url: http://www.gutenberg.org/2009/agents/300
+description: ''
+gutenberg_issued: '1996-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '581'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Satire, English'
+- !lcsh 'Education -- Fiction'
+- !lcsh 'Orphans -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Christian sects -- Fiction'
+- GITenberg
+title: 'Ginx''s Baby: His Birth and Other Misfortunes; a Satire'
+url: http://www.gutenberg.org/ebooks/581
